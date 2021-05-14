@@ -1,0 +1,2 @@
+class TaskAppController < ApplicationController
+end
